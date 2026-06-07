@@ -1,0 +1,45 @@
+# Geotechnicalengineering — Nanaimo
+
+> Geotechnical engineering services in Nanaimo, Canada.
+
+## Services
+- [Anchors](https://nanaimo.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://nanaimo.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://nanaimo.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://nanaimo.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://nanaimo.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://nanaimo.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://nanaimo.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://nanaimo.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://nanaimo.geotechnicalengineering.vip/footings/)
+- [Foundations](https://nanaimo.geotechnicalengineering.vip/foundations/)
+- [Grain Size](https://nanaimo.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://nanaimo.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://nanaimo.geotechnicalengineering.vip/grouting/)
+- [Investigation](https://nanaimo.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://nanaimo.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://nanaimo.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://nanaimo.geotechnicalengineering.vip/liquefaction/)
+- [Mat Foundations](https://nanaimo.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://nanaimo.geotechnicalengineering.vip/piles/)
+- [Rigid Pavement](https://nanaimo.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://nanaimo.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://nanaimo.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://nanaimo.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://nanaimo.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://nanaimo.geotechnicalengineering.vip/seismic-microzonation/)
+- [Slope Stability](https://nanaimo.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://nanaimo.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://nanaimo.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://nanaimo.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://nanaimo.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://nanaimo.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://nanaimo.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://nanaimo.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://nanaimo.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Nanaimo, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
